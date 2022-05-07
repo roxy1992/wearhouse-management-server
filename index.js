@@ -12,7 +12,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-//user:mobileCorner
+
 //password:c3WYlqvVR4oTgckB
 
 
